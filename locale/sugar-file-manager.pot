@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-02 15:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: sugar_file_manager.py:34
+msgid "Journal"
+msgstr ""
+
+#: sugar_file_manager.py:51
+msgid "Create Directory"
+msgstr ""
+
+#: sugar_file_manager.py:58
+msgid "Paste"
+msgstr ""
+
+#: sugar_file_manager.py:75
+msgid "Copy"
+msgstr ""
+
+#: sugar_file_manager.py:79
+msgid "Delete"
+msgstr ""
+
+#: sugar_file_manager.py:83
+msgid "Send to"
+msgstr ""
+
+#: sugar_file_manager.py:110
+msgid "Go Up"
+msgstr ""
+
+#: sugar_file_manager.py:114
+msgid "Refresh"
+msgstr ""
+
+#: filemanager/bookmarks.py:34
+msgid "Personal Directory"
+msgstr ""
+
+#: filemanager/bookmarks.py:35
+msgid "File System"
+msgstr ""
+
+#: filemanager/file_operations.py:32
+msgid "There was an error"
+msgstr ""
+
+#: filemanager/file_operations.py:58
+msgid "Directory Name"
+msgstr ""
+
+#: filemanager/file_operations.py:64
+msgid "New Directory"
+msgstr ""
+
+#: filemanager/file_properties.py:43 filemanager/gui.py:126
+msgid "Properties"
+msgstr ""
+
+#: filemanager/file_properties.py:44
+msgid "Name: "
+msgstr ""
+
+#: filemanager/file_properties.py:46
+msgid "Type: "
+msgstr ""
+
+#: filemanager/file_properties.py:48
+msgid "Size: "
+msgstr ""
+
+#: filemanager/file_properties.py:52
+msgid "Calculate"
+msgstr ""
+
+#: filemanager/file_properties.py:53
+msgid "Location: "
+msgstr ""
+
+#: filemanager/file_properties.py:55
+msgid "Accessed: "
+msgstr ""
+
+#: filemanager/file_properties.py:57
+msgid "Modified: "
+msgstr ""
+
+#: filemanager/file_properties.py:59
+msgid "Permissions: "
+msgstr ""
+
+#: filemanager/file_properties.py:60
+msgid "Read"
+msgstr ""
+
+#: filemanager/file_properties.py:61
+msgid "Write"
+msgstr ""
+
+#: filemanager/file_properties.py:63
+msgid "Execution"
+msgstr ""
+
+#: filemanager/file_properties.py:78
+msgid "Access"
+msgstr ""
+
+#: filemanager/file_properties.py:95
+msgid "Owner"
+msgstr ""
+
+#: filemanager/file_properties.py:99
+msgid "Group"
+msgstr ""
+
+#: filemanager/file_properties.py:103
+msgid "Others"
+msgstr ""
+
+#: filemanager/gui.py:61
+msgid "Bookmarks"
+msgstr ""
+
+#: filemanager/gui.py:68
+msgid "Mounts"
+msgstr ""
+
+#: filemanager/gui.py:115
+msgid "Open"
+msgstr ""

@@ -1,0 +1,9 @@
+[Activity]
+name = Sugar File Manager
+bundle_id = org.ceibaljam.SugarFileManager
+service_name = org.ceibaljam.SugarFileManager
+icon = activity-icon
+class = sugar_file_manager.SugarFileManagerActivity
+activity_version = 2
+show_launcher = yes
+license = GPLv3+
